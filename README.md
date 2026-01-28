@@ -14,7 +14,7 @@ You will see a detailed installation steps for each platform
 
 ### Mobile
 1) Download [Termux](https://github.com/termux/termux-app)
-2) Download the [Linux version](https://github.com/StronkEggKing/Doll-Browser-Chatbot/releases/tag/linux-v1)
+2) Download the source code
 3) Install the "node" package via `pkg install node`
 4) Run the executable in Termux via the command `node path/to/server.js`. 
 
