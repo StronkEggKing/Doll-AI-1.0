@@ -33,7 +33,7 @@ You will see a detailed installation steps for each platform
 
 > Q: Will this become an app instead of a website on a local server?
 
-> A: Yes, this idea is currently in the works and will take a long time to make. The app will contain: an expressive avatar overlay (much like Smug AI), a system monitor with warnings, and an expressive voice so she can roast the shit out of your specs and attitude. You can follow up with it in [this repo] ()
+> A: Yes, this idea is currently in the works and will take a long time to make. The app will contain: an expressive avatar overlay (much like Smug AI), a system monitor with warnings, and an expressive voice so she can roast the shit out of your specs and attitude. You can follow up with it in [this repo](https://github.com/StronkEggKing/Doll-AI-2.0)
 
 ---
 
